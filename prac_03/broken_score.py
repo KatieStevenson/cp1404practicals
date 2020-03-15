@@ -1,26 +1,21 @@
 """
-Should ask the user for their score and print the result.
-Write a new function that takes in the user's score as a parameter and returns the result to be printed.
-The function should not print it.
+CP1404/CP5632 - Practical
+Broken program to determine score status
 """
 
+# TODO: Fix this!
 
-def main():
-    score = float(input("Enter score: "))
-    print(determine_score(score))
+score = float(input("Enter score: "))
+if score < 0:
+    print("Invalid score")
+elif score > 100:
+    print("Invalid score")
+elif score > 50:
+    print("Passable")
+elif score > 90:
+    print("Excellent")
+elif score < 50:
+    print("Bad")
 
-
-def determine_score(score):
-    if score < 0:
-        return "Invalid score"
-    elif score > 100:
-        return "Invalid score"
-    elif score > 50:
-        return "Passable"
-    elif score > 90:
-        return "Excellent"
-    elif score < 50:
-        return "Bad"
-
-
-main()
+# Changed if statements to ELIF as I would enter a score greater than 100.
+# It would print "Invalid score", "Passable", "Excellent" and "Bad" etc.
