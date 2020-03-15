@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+### CP1404 Directory README File
 
-You can use the [editor on GitHub](https://github.com/KatieStevenson/cp1404practicals/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The CP1404 Directory contains practical work submitted for review by JCU Lecturers and Tutors.
+The folder will contain (when finished) the entire 10 weeks worth of practical work.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Formatting
+Each folder will be presented as 'prac_xx' where 'xx' refers to number 1 to 10 (01, 02, 03...).
+A README.md file will be present in each folder to explain the contents of the folder in more detail.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KatieStevenson/cp1404practicals/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
